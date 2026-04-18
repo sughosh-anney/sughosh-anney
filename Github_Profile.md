@@ -84,7 +84,7 @@ I sit at the intersection of **Finance** and **Artificial Intelligence** — bui
 ```
 Jun 2019 ──── Genpact          ──── Apprentice Finance Analyst (SME – Coca-Cola P2P)
 Dec 2020 ──── DuPont / IFF     ──── Finance Contractor (I2P, Vendor Governance)
-Jul 2021 ──── TCS              ──── Senior Associate (14 EMEA countries, AP Operations)
+Jul 2021 ──── TCS              ──── Senior Associate (14 EMEA countries, AP Operations & Budgeting and Forecasting Controls)
 Nov 2022 ──── Deloitte ✦       ──── Finance Manager & Senior Specialist (FP&A + AI Innovation)
          └─── Present
 ```
@@ -97,8 +97,8 @@ Nov 2022 ──── Deloitte ✦       ──── Finance Manager & Senior S
 
 | Metric | Value |
 |---|---|
-| Years of Experience | 6+ |
-| AI Workflows Deployed | 51 |
+| Years of Experience | 6.10 |
+| AI Workflows Deployed | 22 |
 | Time Saved (Commentary Engine) | 97% |
 | Users on Plan Site Tool | 800+ |
 | EMEA Countries Managed (TCS) | 14 |
