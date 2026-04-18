@@ -1,7 +1,7 @@
 <div align="center">
 
 # Sughosh Anney
-### Senior Finance Analyst & AI-Enabled FP&A Specialist | Deloitte
+### Finance Manager & AI-Enabled FP&A Specialist | Deloitte
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sughosh-anney)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sughoshanney1999@gmail.com)
@@ -20,7 +20,7 @@
 
 I sit at the intersection of **Finance** and **Artificial Intelligence** — building tools that transform how finance teams plan, forecast, and report. At Deloitte, I lead FP&A operations across multiple business segments while simultaneously designing and deploying AI-powered automation workflows that reduce manual effort by up to **97%**.
 
-- **Currently:** Senior Analyst & Team Leader at Deloitte (Nov 2022 – Present)
+- **Currently:** Finance Manager & Specialist at Deloitte (Nov 2022 – Present)
 - **Focus:** Finance × AI automation, LLM-powered FP&A tools, Python dashboards, N8N workflows
 - **Recognition:** Deloitte AI Integrated Award 2025 | Deployed 51 AI automation workflows via N8N + Sidekick
 - **Published:** 2 International Research Papers | 3x Conference Speaker
@@ -85,7 +85,7 @@ I sit at the intersection of **Finance** and **Artificial Intelligence** — bui
 Jun 2019 ──── Genpact          ──── Apprentice Finance Analyst (SME – Coca-Cola P2P)
 Dec 2020 ──── DuPont / IFF     ──── Finance Contractor (I2P, Vendor Governance)
 Jul 2021 ──── TCS              ──── Senior Associate (14 EMEA countries, AP Operations)
-Nov 2022 ──── Deloitte ✦       ──── Senior Analyst & Team Leader (FP&A + AI Innovation)
+Nov 2022 ──── Deloitte ✦       ──── Finance Manager & Senior Specialist (FP&A + AI Innovation)
          └─── Present
 ```
 
