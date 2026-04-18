@@ -65,16 +65,16 @@ I sit at the intersection of **Finance** and **Artificial Intelligence** — bui
 | Project | Tools | Impact |
 |---|---|---|
 | [Variance Commentary Engine](https://github.com/sughosh-anney/variance-commentary-engine) | Python · Claude AI · Power BI | 45 min → 2 min commentary (97% reduction) · 60+ users |
-| [Choices & Plan Site AI Enhancement](https://github.com/sughosh-anney/choices-plansite-ai) | Python · SQL · Claude AI · SharePoint | 60 min → 10 min per WBS · 800+ product leaders |
-| [N8N Finance Automation Workflows](https://github.com/sughosh-anney/n8n-finance-workflows) | N8N · GenAI · Sidekick | 51 workflows deployed · AI Integrated Award 2025 |
+| [Choices & Plan Site AI Enhancement](https://github.com/sughosh-anney/choices-plan-site-ai-enhancement) | Python · SQL · Claude AI · SharePoint | 60 min → 10 min per WBS · 800+ product leaders |
+| [N8N Finance Automation Workflows](https://github.com/sughosh-anney/n8n-finance-automation) | N8N · GenAI · Sidekick | 51 workflows deployed · AI Integrated Award 2025 |
 
 ### Dashboards & Reporting Tools
 
 | Project | Tools | Impact |
 |---|---|---|
 | [Dynamic Portfolio Dashboard](https://github.com/sughosh-anney/dynamic-portfolio-dashboard) | VBA · Excel · SAP · QlikSense | 3 hrs → 7 mins · 18 portfolios · Auto-PPT sync |
-| [OPS Headcount Power BI Dashboard](https://github.com/sughosh-anney/ops-headcount-powerbi) | Power BI · SAP SQL · DAX | 80% forecasting error reduction · Multi-vendor tracking |
-| [Telecom Circuit Cost Dashboard](https://github.com/sughosh-anney/telecom-circuit-dashboard) | Python · SQL · SAP HANA | Manual → 2-3 min refresh · 7 member firms · 11 vendors |
+| [OPS Headcount Power BI Dashboard](https://github.com/sughosh-anney/ops-headcount-powerbi-dashboard) | Power BI · SAP SQL · DAX | 80% forecasting error reduction · Multi-vendor tracking |
+| [Telecom Circuit Cost Dashboard](https://github.com/sughosh-anney/telecom-circuit-cost-dashboard) | Python · SQL · SAP HANA | Manual → 2-3 min refresh · 7 member firms · 11 vendors |
 | [VBA Forecasting Tool](https://github.com/sughosh-anney/vba-forecasting-tool) | VBA · SQL · Anaplan · Oracle | Synced to 4 platforms · Full tech team standardisation |
 
 ---
