@@ -26,7 +26,7 @@ Finance analysts previously spent **45 minutes per service area** manually writi
   - Actual vs Forecast
   - Plan vs Forecast
 - Sends variance data to **Claude AI (Anthropic)** which generates structured, readable business commentary
-- Covers **16 service areas**, **2 business units** and **7 Member Firms** — monthly and quarterly cadence
+- Covers **16 service areas**, **2 business units** and **4 Member Firms** — monthly and quarterly cadence
 - Used by **220+ finance users and executive leadership** monthly
 - Human-in-the-loop: analysts validate and refine AI commentary for business context
 
@@ -61,9 +61,10 @@ SAP HANA / QlikSense
 |---|---|---|
 | Time per service area commentary | 45 minutes | 2 minutes |
 | Time reduction | — | 97% |
-| Monthly active users | — | 60+ |
-| Service areas covered | — | 5 |
+| Monthly active users | — | 220+ |
+| Service areas covered | — | 16 |
 | Business units | — | 2 |
+| Member Firms | — | 4 |
 | Reporting cadence | Manual, irregular | Monthly + Quarterly |
 
 ---
